@@ -1,0 +1,31 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "Examples for a talk about Javascript testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielaraujof/javascript-testing.git"
+  },
+  "keywords": [
+    "javascript",
+    "testing",
+    "tdd"
+  ],
+  "author": "Gabriel Araujo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielaraujof/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/gabrielaraujof/javascript-testing#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@types/jest": "^25.2.3",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
